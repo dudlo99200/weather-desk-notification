@@ -46,8 +46,9 @@ pip install -r requirements.txt
 
 ## Usage
 Open main.py and change the city name:
+```bash
 city = "Chandpur"
-
+```
 Save the file and run:
 ```bash
 python main.py
